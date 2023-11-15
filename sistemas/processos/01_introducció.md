@@ -19,4 +19,4 @@ Manca de comunicació entre els membres de l'equip.
 Ús ineficient dels recursos disponibles.
 
 
-[Volver](../README.md)
+[Volver](../../README.md)
